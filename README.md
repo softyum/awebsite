@@ -1,6 +1,7 @@
 #### softyum wesite
 
 - Getting starte with git
+> https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
 
 ```shell
 git remote add softyum git@github.com:softyum/awebsite.git
